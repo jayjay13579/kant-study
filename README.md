@@ -22,3 +22,13 @@ git commit -m "commit message"
 # push command
 git push origin main
 ```
+
+```sh
+# git log 명령어
+git log
+git log --oneline
+
+```
+
+alt + 위아래 방향키로 라인 위치 바꾸기
+alt + shift + 위아래 방향키로 라인 복사하기
