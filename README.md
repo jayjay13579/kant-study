@@ -11,3 +11,9 @@ git add .
 git add -A
 # 해당 repo 전역 commit
 ```
+
+```bash
+# commit
+git commit -m "commit message"
+
+```
